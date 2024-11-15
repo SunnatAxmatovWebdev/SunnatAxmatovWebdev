@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunnatAxmatovWebdev
+- 👋 Hi, I’m @SunnatAxmatov
 - 👀 I’m interested in reading a book, coding .
 - 🌱 I’m currently learning English and Programming
 - 💞️ I’m looking to collaborate on ...
